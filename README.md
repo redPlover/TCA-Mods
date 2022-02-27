@@ -1,2 +1,10 @@
 # TCA-Mods
-A repository of community made Tiny Combat Arena mods.
+ This is a repository of community made Tiny Combat Arena mods. This gives people the opportunity to install mods safely*.
+ 
+## Safety Warning
+ **WARNING**
+ I am not responsible for any damages done to your property. I have run all of the mods in this repository through anti virus software but I still reccomend that you do too. I am also a stranger on the internet. *Do not trust me*
+
+
+## How to install
+ Below are instructions on how to install the different types of mods.
