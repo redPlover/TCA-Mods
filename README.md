@@ -7,4 +7,7 @@
 
 
 ## How to install
- Below are instructions on how to install the different types of mods.
+ The instructions on how to install the different types of mods are in the [Wiki](https://github.com/redPlover/TCA-Mods/wiki).
+ 
+## Credit
+ Most of these mods were not made by me. The creators have been credited in the mod titles.
